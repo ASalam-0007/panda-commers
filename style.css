@@ -4,3 +4,48 @@
 .carousel-item{
     padding:20px 40px;
 }
+.buy{
+    padding:10px 5px;
+    background-color: orange;
+    border-radius: 5px;
+    box-shadow: yellow;
+
+}
+.container{
+    margin-bottom: 50px;
+}
+
+.cat1{
+    background-color: orange;
+    border-radius: 16px;
+  
+}
+.cat1 h1{
+    float: left;
+    color: white;
+    border-radius: 16px;
+    padding-left: 20px;
+}
+
+.cat2{
+    background-color: orchid;
+    border-radius: 16px;
+}
+.cat2 h1{
+    float: left;
+    color: white;
+    border-radius: 16px;
+    padding-left: 20px;
+    
+   
+}
+.cat3{
+    background-color: purple;
+    border-radius: 16px;
+}
+.cat3 h1{
+    float: left;
+    color: white;
+    border-radius: 16px;
+    padding-left: 20px;
+}
